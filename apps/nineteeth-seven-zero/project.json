@@ -1,0 +1,9 @@
+{
+  "name": "nineteeth-seven-zero",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nineteeth-seven-zero",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project nineteeth-seven-zero --web",
+  "targets": {}
+}
